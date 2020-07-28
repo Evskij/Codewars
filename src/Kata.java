@@ -8,13 +8,15 @@ Kata.expandedForm(42); # Should return "40 + 2"
 Kata.expandedForm(70304); # Should return "70000 + 300 + 4"
 
 NOTE: All numbers will be whole numbers greater than 0.
+
+If you liked this kata, check out part 2!!
+
  */
 import java.util.Collections;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-
-public class ExpandedForm {
+public class Kata {
     public static String expandedForm(int num)
     {
         return IntStream
