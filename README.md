@@ -33,7 +33,11 @@
 
 - SpinWords [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 
+- SudokuValidator [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
+
 - StockList [Help the bookseller !](https://www.codewars.com/kata/54dc6f5a224c26032800005c)
+
+- SudpkuValidator [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
 
 - SumSquaredDivisors [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d)
 
